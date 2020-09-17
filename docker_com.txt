@@ -1,0 +1,12 @@
+docker
+
+ps
+
+run helloworld
+
+images
+
+run (-it/-d) -p 1234:8080 tomcat
+
+rm (id) name or id
+
